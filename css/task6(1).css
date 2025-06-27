@@ -1,0 +1,30 @@
+.custom_img{
+		 background-image:url('../images/pandu.jpg');
+         height:350px;
+         width:600px;
+         background-position:center;
+		 margin: auto;
+		 margin-top: 200px;
+		 text-align:center;
+}
+.head_content{
+	text-align:center;
+	color:white;
+	padding:80px;
+	font-size:28px;
+}
+.paragraph_content{
+	text-align:center;
+	color:white;
+    margin:-70px;
+}
+.custom_img button{
+	color:white;
+	background-color:blue;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;1
+	border-bottom-right-radius:100px;
+	border-bottom-left-radius:100px;
+	margin:100px;
+
+}
